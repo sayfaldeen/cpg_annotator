@@ -17,6 +17,8 @@ This script annotates CpG sites with corresponding gene names for different arra
 pip install -r requirements.txt
 ```
 
+Alternatively, you can run a `pip install .` in this directory with the setup.py and install into env
+
 ## Usage
 
 The script can be used from the command line or imported as a Python module.
