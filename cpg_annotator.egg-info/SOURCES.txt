@@ -1,0 +1,11 @@
+README.md
+setup.py
+cpg_annotator/__init__.py
+cpg_annotator/annotator.py
+cpg_annotator.egg-info/PKG-INFO
+cpg_annotator.egg-info/SOURCES.txt
+cpg_annotator.egg-info/dependency_links.txt
+cpg_annotator.egg-info/entry_points.txt
+cpg_annotator.egg-info/requires.txt
+cpg_annotator.egg-info/top_level.txt
+tests/test_cpg_annotator.py

@@ -1,0 +1,2 @@
+[console_scripts]
+cpg-annotator = cpg_annotator.annotator:main
